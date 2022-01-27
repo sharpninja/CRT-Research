@@ -10,4 +10,4 @@ For many years I have watched with dismay as our school systems have become more
 
 Lots of quotes with links to source materials (where available, there's a lot of information locked behind paywalls, not out in the open where people can easily reference them).  Occasionally I will also place my thoughts about a quote or topic.  Eventually there will be enough material here to post my own theory about how CRT has been weaponized to stamp out individuality while simultaneously dividing us up much the same way that the Soviet Union implemented the social construct of race in the first years of the USSR through the 1960s.  The academic thought and behavior of early 20th Century Marxists is not dissimilar from that of the loudest voices in the CRT Movement.
 
-[Live](https://sharpninja.github.io/CRT-Research/) | [Table of Contents](%20Table%20of%20Contents) -> [Terminology](CRT%20Terminology) | [Resources](Resources)
+[Live](https://sharpninja.github.io/CRT-Research/) | [Table of Contents](Table%20of%20Contents) -> [Terminology](CRT%20Terminology) | [Resources](Resources)
