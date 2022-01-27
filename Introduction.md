@@ -1,0 +1,5 @@
+# Introduction
+
+> Ignorance is the common cause of racial or religious intolerance and the only real cure of ignorance is knowledge. Intolerance is very often manifested by genuinely unprejudiced persons because they lack the proper information. Religious persecution, racial discrimination, and class prejudice, are shown by persons whose ignorance causes them to fall easy prey to rabble-rousers or professional agitators. The problem of obliterating ignorance from our midst devolves on all those who hope to find strength in justice and attain respect through the equity of their cause; the solution of this problem lies on the doorstep of those who are disposed to investigate the truth. Nothing breeds prejudice so much as ignorance and the danger of prejudice is that it calls forth automatic emotional responses which make people act without thinking. ([Samuels, Westerman, 1946](References#Ref1))
+
+[Exit](.) | [Table of Contents](%20Table%20of%20Contents) -> [Terminology](CRT%20Terminology) | [Resources](Resources)
