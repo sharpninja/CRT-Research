@@ -24,60 +24,42 @@
 
 ## Sources
 
-### Injustice
-
-| |
+| Injustice |
 |---|
 | Cochran-Smith, M. (2009). Toward a Theory of Teacher Education for Social Justice. Second International Handbook of Educational Change, 445–467.  [https://doi.org/10.1007/978-90-481-2660-6_27](https://www.academia.edu/4346572/Toward_a_Theory_of_Teacher_Education_for_Social_Justice#:~:text=(Rawls%2C%201971).-,Here,classes%20or%20class%2Dlike%20groups%20(Fraser%2C%202003).,-From%20this%20perspective) |
 
-
-### Intersectionality
-
-| |
+| Intersectionality |
 |---|
 | Hillary Flowers, 2019. [Intersectionality Part One: Intersectionality Defined \| Office of Equity, Diversity and Inclusion (nih.gov)](https://www.edi.nih.gov/blog/communities/intersectionality-part-one-intersectionality-defined)  |
 | David Gillborn, 2015. Intersectionality, Critical Race Theory, and the Primacy of Racism: Race, Class, Gender, and Disability in Education. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1077800414557827)|
 
-### Race
-
-| |
+| Race |
 |---|
 | David Gillborn, 2015. Intersectionality, Critical Race Theory, and the Primacy of Racism: Race, Class, Gender, and Disability in Education. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1077800414557827)|
 
-### Racism
-
-| |
+| Racism |
 |---|
 | David Gillborn, 2015. Intersectionality, Critical Race Theory, and the Primacy of Racism: Race, Class, Gender, and Disability in Education. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1077800414557827)|
 
-### Colorism
-
-| |
+| Colorism |
 |---|
 | |
 
-### White Supremacy
-| |
+| White Supremacy |
 |---|
 | Erika K. Wilson (unc.edu). [The Legal Foundations of White Supremacy](https://scholarship.law.unc.edu/faculty_publications/508/)|
-|[The Formula of Race and Racism: White Supremacy +Anti-blackness + Non-white, Non-black = less ( \| TSpace Repository (utoronto.ca)](https://tspace.library.utoronto.ca/handle/1807/108295)|
+|[The Formula of Race and Racism: White Supremacy +Anti-blackness + Non-white, Non-black = less ( TSpace Repository (utoronto.ca)](https://tspace.library.utoronto.ca/handle/1807/108295)|
 |Belew, K., & Gutiérrez, R. A. (Eds.). (2021). _A Field Guide to White Supremacy_ (1st ed.). University of California Press. https://doi.org/10.2307/j.ctv1xbc21c|
 | David Gillborn, 2015. Intersectionality, Critical Race Theory, and the Primacy of Racism: Race, Class, Gender, and Disability in Education. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1077800414557827)|
 
-### Whiteness
-
-| |
+| Whiteness |
 |---|
 | David Gillborn, 2015. Intersectionality, Critical Race Theory, and the Primacy of Racism: Race, Class, Gender, and Disability in Education. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1077800414557827) |
 
-### Blackness
-
-| |
+| Blackness |
 |---|
 | |
 
-### Social Justice Schooling
-
-| |
+| Social Justice Schooling |
 |---|
 | |
