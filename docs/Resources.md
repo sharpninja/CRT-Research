@@ -9,4 +9,4 @@
 |[Google Scholar](https://scholar.google.com/)|
 |[Directory of Open Access Journals – DOAJ](https://www.doaj.org/)|
 
-[Exit](.) | [Table of Contents](%20Table%20of%20Contents) -> [Terminology](CRT%20Terminology) | [Resources](Resources)
+[Live](https://sharpninja.github.io/CRT-Research/) | [Home](.) | [Table of Contents](%20Table%20of%20Contents) -> [Terminology](CRT%20Terminology) | [Resources](Resources)
