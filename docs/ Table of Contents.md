@@ -7,4 +7,4 @@
 1. [References](References)
 1. [Resources](Resources)
 
-[Exit](.)
+[Live](https://sharpninja.github.io/CRT-Research/) | [Home](.)
