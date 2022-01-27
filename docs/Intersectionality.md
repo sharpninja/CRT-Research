@@ -10,3 +10,5 @@
 | My Thoughts |
 |------------|
 | Delgado recognizes the biggest flaw in basing your movement on a nebulous and open ended concept that has no solution. |
+
+[Live](https://sharpninja.github.io/CRT-Research/) | [Home](.) | [Table of Contents](Table%20of%20Contents) -> [Terminology](CRT%20Terminology) | [Resources](Resources)
